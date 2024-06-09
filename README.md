@@ -99,7 +99,7 @@ benrav007@gmail.ccom
 - Usb spread via File manager
 - Free update
 - Network Scan android
-- support ice cream to Android 12
+- support  Android 14
 - Screenshot (android) NO ROOT
 - Read Permission of apps
 ## Requirement
